@@ -1,7 +1,7 @@
 <!-- Header with custom banner -->
-<p align="center">
+<!--p align="center">
   <img src="https://i.imgur.com/hd2ZtLE.png" alt="Will's Portfolio Banner" />
-</p>
+</p -->
 
 # 👋 Hi, I'm Will!
 
